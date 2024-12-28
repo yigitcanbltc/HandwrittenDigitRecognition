@@ -19,7 +19,7 @@ tkinter
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/username/HandwrittenDigitRecognition.git
+git clone https://github.com/yigitcanbltc/HandwrittenDigitRecognition.git
 
 2. Install required packages:
 ```
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions and feedback, please open an [issue](https://github.com/username/HandwrittenDigitRecognition/issues).w
+For questions and feedback, please open an [issue](https://github.com/yigitcanbltc/HandwrittenDigitRecognition/issues).w
