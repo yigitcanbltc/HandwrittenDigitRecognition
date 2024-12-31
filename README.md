@@ -63,10 +63,3 @@ HandwrittenDigitRecognition/
 - Accuracy: ~98%
 - Input size: 28x28 pixels
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions and feedback, please open an [issue](https://github.com/yigitcanbltc/HandwrittenDigitRecognition/issues).w
